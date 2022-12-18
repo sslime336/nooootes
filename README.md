@@ -6,3 +6,4 @@
 - [riscv S 特权级](riscv_S-mode.md)
 - [Qemu和RustSBI](Qemu和RustSBI.md)
 - [android四大组件](android四大组件.md)
+- [Kotlin内置函数](Kotlin内置函数.md)
