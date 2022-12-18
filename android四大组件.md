@@ -129,3 +129,7 @@ intent.setAction(ActionUtils.ACTION_ABAABA)
 sendBroadcast(intent)
 ```
 
+## ContentProvider
+
+为不同的应用之间数据共享，提供统一的接口
+
